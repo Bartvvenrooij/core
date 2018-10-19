@@ -1,0 +1,12 @@
+{
+    "name": "bartvanvenrooij/core",
+    "description": "Diamonds Core",
+    "authors": [
+        {
+            "name": "Bartvvenrooij",
+            "email": "bartvvenrooij@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
