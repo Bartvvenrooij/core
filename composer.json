@@ -1,6 +1,7 @@
 {
     "name": "bartvvenrooij/core",
     "description": "Diamonds Core",
+    "type": "laravel-library",
     "authors": [
         {
             "name": "Bartvvenrooij",
@@ -9,20 +10,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.3.0",
         "composer/installers": "~1.0"
-    },
-    "autoload": {
-        "psr-0": {
-            "HelloWorld": "src/"
-        }
-    },
-    "config": {
-        "vendor-dir": "app/Modules"
-    },
-    "extra": {
-        "installer-paths": {
-            "./app/Modules/Core": ["bartvvenrooij/core"]
-        }
     }
 }
