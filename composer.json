@@ -1,7 +1,6 @@
 {
     "name": "bartvvenrooij/core",
     "description": "Diamonds Core",
-    "type": "laravel-library",
     "authors": [
         {
             "name": "Bartvvenrooij",
